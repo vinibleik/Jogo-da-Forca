@@ -21,3 +21,7 @@ int main(int argc, char const *argv[]){
 void menu(){
 	cout << "oi";
 }
+
+void opcao(){
+	cout << "teste"
+}
